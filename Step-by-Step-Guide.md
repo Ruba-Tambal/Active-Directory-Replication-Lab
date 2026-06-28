@@ -37,7 +37,7 @@ dcdiag /s:WIN2K25-DC01
 
 # 4. Test Replication Specifically
 dcdiag /test:replications
-
+```
 ## STEP 5 — Validation
 
 Open Active Directory Users and Computers
