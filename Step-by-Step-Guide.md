@@ -27,11 +27,12 @@ tools -> Active Directory Sites and Services
 ```powershell
 repadmin /replsummary
 repadmin /showrepl
+dcdiag /test:replications
 
-## STEP 4 —  Validation
+## STEP 5 —  Validation
 Open Active Directory Users and Computers
 Open DNS Manager
 Check replication status
 
 Lab Completed Successfully! 🎉
-dcdiag /test:replications
+
