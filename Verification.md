@@ -3,7 +3,6 @@
 # Verification & Testing
 
 ## ✅ Key Checks
-- Tools -> Active Directory Sites and Services
 - DCs are replicating successfully
 - `repadmin /replsummary` shows no errors
 - `dcdiag` passes replication tests
@@ -15,6 +14,7 @@
 - Replication status
 - dcdiag and repadmin results
 - AD Users and Computers
+- AD Sites and Services
 - DNS Manager
 
 **Lab Completed Successfully!** 🎉
