@@ -10,7 +10,7 @@ This lab demonstrates the deployment of a multi-domain controller Active Directo
 
 ## 🏗️ Architecture
 
-![Architecture](./architecture.png)
+![Architecture](./Architecture/architecture.png)
 
 ## Lab Objectives
 - Install Active Directory Domain Services
